@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Ibrahim Khaleel👋
+Embedded Software / Firmware Engineer (Fresher) | ECE Graduate 2025
 
-<!--
-**ibrahimkhaleel-embedded/ibrahimkhaleel-embedded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I work on
+- Embedded C, Linux system programming
+- CAN, UART, SPI, I2C protocols
+- ARM Cortex-A8, PIC18 microcontrollers
 
-Here are some ideas to get you started:
+## Featured projects
+- **CAN Vehicle Dashboard**: communication between CAN nodes
+- **Car Black Box**: event recorder on PIC18F4580
+- **Mini Shell**: command-line interpreter in C
+- **TFTP Client-Server**: socket programming in C
+- **Image Steganography**: hiding data in images
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+📧 ikofficial175@gmail.com · 💼 www.linkedin.com/in/ibrahimkhaleel014
